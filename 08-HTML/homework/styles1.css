@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: blue;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+body {
+    background-color: rgb(241, 240, 156);
+    border: 20px solid #000;
+    
+    
+}
+
+h3 {
+    color:indigo;
+    margin-top: 20px;
+}
+
+.final {
+    margin-bottom: 50px;
+}
+
